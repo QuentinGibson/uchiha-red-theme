@@ -1,0 +1,21 @@
+{
+  "name": "uchiha-red-theme",
+  "displayName": "Uchiha Red Theme",
+  "description": "The Uchiha Red color scheme draws inspiration from the iconic Uchiha clan of the Naruto anime series.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Uchiha Red Theme | Color Scheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/The Uchiha Red Theme  Color Scheme-color-theme.json"
+      }
+    ]
+  }
+}
